@@ -1,5 +1,0 @@
-*
-*
-*
-welcome to Panda programming
-You will find python programs here
